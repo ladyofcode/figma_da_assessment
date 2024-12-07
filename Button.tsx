@@ -5,7 +5,7 @@ import { ReactNode } from 'react';
 
 import './Button.css';
 
-export type ButtonSize = 'small' | 'mediaum';
+export type ButtonSize = 'small' | 'medium';
 export type ButtonVariant = 'primary' | 'neutral' | 'subtle';
 
 export interface ButtonProps {
